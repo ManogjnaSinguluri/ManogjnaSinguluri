@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manogjna Singuluri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manogjna_singuluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Manogjna_singuluri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manogjna-singuluri-159018257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manogjna Singuluri" height="30" width="40" /></a>
+<a href="https://leetcode.com/Manogjna_Singuluri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Manogjna_singuluri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
